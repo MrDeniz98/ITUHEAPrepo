@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash 
 
 #change dir_obs and dir_repro only and create bary and output folders
 
